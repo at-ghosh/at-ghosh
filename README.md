@@ -8,9 +8,9 @@
 - 😇 Been developing w/ MERN, FastAPI, Electron & go-chi
 - 💻 OS agnostic
 
-![](https://github-readme-stats.vercel.app/api?username=arkorty&custom_title=GitHub+Stats&theme=dark&hide_border=true&show_icons=true&include_all_commits=false&bg_color=00000000&count_private=false)</br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arkorty&theme=dark&hide_border=true&background=00000000)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arkorty&theme=dark&hide_border=true&langs_count=8&include_all_commits=false&count_private=false&bg_color=00000000&layout=compact)</br>
+![](https://github-readme-stats.vercel.app/api?username=at-ghosh&custom_title=GitHub+Stats&theme=dark&hide_border=true&show_icons=true&include_all_commits=false&bg_color=00000000&count_private=false)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=at-ghosh&theme=dark&hide_border=true&background=00000000)</br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=at-ghosh&theme=dark&hide_border=true&langs_count=8&include_all_commits=false&count_private=false&bg_color=00000000&layout=compact)</br>
 
 ## My Tech Stack
 
