@@ -1,12 +1,8 @@
-# Hello, I'm Arka! ( say Orko )
+# Hello, I'm Atrayee! 
 
 ## Here are some things about me
 
-- 🍵 Check out my self-hosted [Git Service](https://git.webark.in/)
-- 🛠️ Currently Floating
-- ⚙ Built [ACEquity](https://ace.webark.in/) and [Expensso](https://github.com/arkorty/Expensso/)
-- 😇 Been developing w/ MERN, FastAPI, Electron & go-chi
-- 💻 OS agnostic
+
 
 ![](https://github-readme-stats.vercel.app/api?username=at-ghosh&custom_title=GitHub+Stats&theme=dark&hide_border=true&show_icons=true&include_all_commits=false&bg_color=00000000&count_private=false)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=at-ghosh&theme=dark&hide_border=true&background=00000000)</br>
@@ -35,6 +31,4 @@
 You can find me on [LinkedIn](https://www.linkedin.com/in/arkorty/), [X.com](https://x.com/arkorty/), or [Mastodon](https://mastodon.social/@arkorty/). For any work-related quiries, please email me at arkorty@gmail.com.
 
 
-## Commit Skyline
 
-![](./profile-3d-contrib/profile-night-green.svg)
