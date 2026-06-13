@@ -35,5 +35,3 @@ I am a passionate Full-Stack Developer and Cybersecurity enthusiast focused on b
 ## Contacts
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/atrayee-ghosh-142528271/), [X.com](https://x.com/atraygh). For any work-related quiries, please email me at  atrayeeghosh2004@gmail.com.
-
-   [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atrayeeghosh2004@gmail.com) 
