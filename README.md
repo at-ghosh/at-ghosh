@@ -5,7 +5,7 @@
 I am a passionate Full-Stack Developer and Cybersecurity enthusiast focused on building secure, scalable, and automated systems.
 
 
-![](https://github-readme-stats.vercel.app/api?username=at-ghosh&custom_title=GitHub+Stats&theme=dark&hide_border=true&show_icons=true&include_all_commits=false&bg_color=00000000&count_private=false)</br>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=at-ghosh&theme=dark&hide_border=true&background=00000000)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=at-ghosh&theme=dark&hide_border=true&langs_count=8&include_all_commits=false&count_private=false&bg_color=00000000&layout=compact)</br>
 
@@ -36,4 +36,4 @@ I am a passionate Full-Stack Developer and Cybersecurity enthusiast focused on b
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/atrayee-ghosh-142528271/), [X.com](https://x.com/atraygh). For any work-related quiries, please email me at  atrayeeghosh2004@gmail.com.
 
-                              [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atrayeeghosh2004@gmail.com) 
+   [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atrayeeghosh2004@gmail.com) 
